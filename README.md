@@ -1,1 +1,1 @@
-echo "Watch this space...  coming soon!" >README.md
+Watch this space...  coming soon!
